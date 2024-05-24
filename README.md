@@ -1,4 +1,12 @@
 # tutorial-12
+![image](https://github.com/UC1000-Adpro-C1/tutorial-12/assets/124899946/180fe634-df09-4a4b-8b4f-808e87ccb3ce)
+![image](https://github.com/UC1000-Adpro-C1/tutorial-12/assets/124899946/57c96192-385b-490f-b9f9-22fa3b5b3411)
+
+![image](https://github.com/UC1000-Adpro-C1/tutorial-12/assets/124899946/1174f62c-f7fd-49fe-aebd-01f1b8159e94)
+
+![image](https://github.com/UC1000-Adpro-C1/tutorial-12/assets/124899946/0217cfd9-b85f-45be-a820-2413b8d39364)
+
+
 ## Component Diagram
 #### Feature Staff Dashboard
 Alifa Hanania Ardha - 2206024392<br>
