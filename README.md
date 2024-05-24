@@ -7,6 +7,10 @@ Alifa Hanania Ardha - 2206024392<br>
 #### Feature Top Up
 ![Top Up Component Diagram](img/topup-component.png)
 
+#### Feature Sell
+James Samuel Widjaja - 2206081906
+![image](https://github.com/UC1000-Adpro-C1/tutorial-12/assets/119392779/b15ea6ad-abd3-4b05-abb1-95392828ad14)
+
 ## Code Diagram
 #### Feature Staff Dashboard
 Alifa Hanania Ardha - 2206024392<br>
