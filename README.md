@@ -4,6 +4,8 @@
 Alifa Hanania Ardha - 2206024392<br>
 ![Staff DB Component Diagram](img/staff-db1.png)
 
+#### Feature Top Up
+![Top Up Component Diagram](img/topup-component.png)
 
 ## Code Diagram
 #### Feature Staff Dashboard
